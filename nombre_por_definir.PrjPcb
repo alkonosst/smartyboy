@@ -47,11 +47,11 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -64,11 +64,11 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -81,11 +81,11 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -98,11 +98,11 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -115,11 +115,11 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -132,11 +132,11 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -149,11 +149,11 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -166,11 +166,11 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -183,11 +183,11 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -200,51 +200,17 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=9
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FZQQDDMC
 
 [Document11]
-DocumentPath=..\Component_libraries\nombre_por_definir.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RFATZXVK
-
-[Document12]
-DocumentPath=..\Component_libraries\nombre_por_definir.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HXDQCSSX
-
-[Document13]
 DocumentPath=2_usb.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -261,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document12]
 DocumentPath=3_cpu.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -278,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document13]
 DocumentPath=9_rs485.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -295,7 +261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document14]
 DocumentPath=5_dac.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -312,7 +278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document15]
 DocumentPath=4_adc.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -329,7 +295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document16]
 DocumentPath=8_h-bridge.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -346,7 +312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document17]
 DocumentPath=7_dout.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -363,7 +329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document18]
 DocumentPath=6_din.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -380,7 +346,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document19]
 DocumentPath=nombre_por_definir.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -397,7 +363,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document20]
 DocumentPath=nombre_por_definir.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -414,92 +380,126 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KSUSACMT
 
+[Document21]
+DocumentPath=Component_libraries\nombre_por_definir.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HXDQCSSX
+
+[Document22]
+DocumentPath=Component_libraries\nombre_por_definir.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RFATZXVK
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for nombre_por_definir\BOM\Bill of Materials-nombre_por_definir.csv
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for nombre_por_definir\NC Drill\nombre_por_definir-RoundHoles.TXT
+DocumentPath=Project Outputs for nombre_por_definir\Design Rule Check - nombre_por_definir.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for nombre_por_definir\NC Drill\nombre_por_definir-SlotHoles.TXT
+DocumentPath=Project Outputs for nombre_por_definir\NC Drill\nombre_por_definir-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for nombre_por_definir\NC Drill\nombre_por_definir.DRR
+DocumentPath=Project Outputs for nombre_por_definir\NC Drill\nombre_por_definir-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.EXTREP
+DocumentPath=Project Outputs for nombre_por_definir\NC Drill\nombre_por_definir.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GBL
+DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GBO
+DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GBP
+DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GBS
+DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GKO
+DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GM4
+DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GPB
+DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GPT
+DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GTL
+DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GTO
+DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GTP
+DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GTS
+DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for nombre_por_definir\NC Drill\nombre_por_definir.LDP
+DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.REP
+DocumentPath=Project Outputs for nombre_por_definir\NC Drill\nombre_por_definir.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.RUL
+DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.REP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for nombre_por_definir\Pick Place\Pick Place for nombre_por_definir.csv
+DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for nombre_por_definir\Pick Place\Pick Place for nombre_por_definir.txt
+DocumentPath=Project Outputs for nombre_por_definir\Pick Place\Pick Place for nombre_por_definir.csv
 DItemRevisionGUID=
 
 [Configuration1]

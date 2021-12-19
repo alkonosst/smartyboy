@@ -455,176 +455,88 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for nombre_por_definir\BOM\Bill of Materials-nombre_por_definir.csv
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for SmartyBoy\BOM\Bill of Materials-SmartyBoy.csv
 DItemRevisionGUID=
 
-[GeneratedDocument3]
-DocumentPath=Project Outputs for nombre_por_definir\Design Rule Check - nombre_por_definir.html
-DItemRevisionGUID=
-
-[GeneratedDocument4]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for SmartyBoy\Design Rule Check - smartyboy.html
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=Project Outputs for nombre_por_definir\NC Drill\nombre_por_definir-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for nombre_por_definir\NC Drill\nombre_por_definir-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for nombre_por_definir\NC Drill\nombre_por_definir.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for nombre_por_definir\NC Drill\nombre_por_definir.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.REP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for nombre_por_definir\Gerber\nombre_por_definir.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for nombre_por_definir\Pick Place\Pick Place for nombre_por_definir.csv
-DItemRevisionGUID=
-
-[GeneratedDocument25]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for SmartyBoy\Pick Place\Pick Place for smartyboy.csv
 DItemRevisionGUID=
 
-[GeneratedDocument26]
-DocumentPath=Project Outputs for SmartyBoy\GerberX2\smartyboy.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for SmartyBoy\GerberX2\smartyboy.REP
-DItemRevisionGUID=
-
-[GeneratedDocument28]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for SmartyBoy\GerberX2\SmartyBoy_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for SmartyBoy\GerberX2\SmartyBoy_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for SmartyBoy\GerberX2\SmartyBoy_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for SmartyBoy\GerberX2\SmartyBoy_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for SmartyBoy\GerberX2\SmartyBoy_Keep-out.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for SmartyBoy\GerberX2\SmartyBoy_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for SmartyBoy\GerberX2\SmartyBoy_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for SmartyBoy\GerberX2\SmartyBoy_NPTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for SmartyBoy\GerberX2\SmartyBoy_Pads_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for SmartyBoy\GerberX2\SmartyBoy_Pads_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for SmartyBoy\GerberX2\SmartyBoy_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for SmartyBoy\GerberX2\SmartyBoy_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for SmartyBoy\GerberX2\SmartyBoy_Profile.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for SmartyBoy\GerberX2\SmartyBoy_PTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for SmartyBoy\GerberX2\SmartyBoy_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for SmartyBoy\GerberX2\SmartyBoy_Soldermask_Top.gbr
 DItemRevisionGUID=
+
+[Parameter1]
+Name=Version
+Value=v1.0.0
+
+[Parameter2]
+Name=Creador
+Value=alkonosst
 
 [Configuration1]
 Name=Sources

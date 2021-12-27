@@ -1,4 +1,4 @@
-Circuit: * D:\Dropbox\USM\3.2 PROYECTO Y TITULACION\Proyecto\2. Hardware\Simulaciones\DAC\dac.asc
+Circuit: * D:\Dropbox\USM\3.2 PROYECTO Y TITULACION\Proyecto\Hardware\SmartyBoy\Simulations\DAC\dac.asc
 
 Limiting rise time of source v1 to 0.1
 Limiting fall time of source v1 to 0.1
@@ -8,159 +8,37 @@ Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to sk
 Starting Gmin stepping
 Gmin = 10
 Gmin = 1.07374
-vernier = 0.5
-vernier = 0.25
-vernier = 0.125
-vernier = 0.0625
-Gmin = 1.08884
-vernier = 0.03125
-vernier = 0.015625
-Gmin = 1.03122
-vernier = 0.0078125
-vernier = 0.00390625
-Gmin = 1.01823
-vernier = 0.00520833
-vernier = 0.00260417
-Gmin = 1.01162
-vernier = 0.00347222
-vernier = 0.00173611
-vernier = 0.000868055
-Gmin = 1.00899
-vernier = 0.00115741
-vernier = 0.000578703
-Gmin = 1.0071
-vernier = 0.000771604
-vernier = 0.000578703
-Gmin = 1.00579
-vernier = 0.000771604
-vernier = 0.000578703
-vernier = 0.000434027
-Gmin = 1.00499
-vernier = 0.000578703
-vernier = 0.000434027
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+Gmin = 2.18725e-010
+Gmin = 2.34854e-011
+Gmin = 2.52173e-012
+Gmin = 2.70769e-013
 Gmin = 0
-Gmin stepping failed
-
-Starting source stepping with srcstepmethod=0
-Source Step = 3.0303%
-Source Step = 33.3333%
-Source Step = 63.6364%
-Source Step = 93.9394%
-vernier = 0.25
-Source Step = 90.9268%
-Source Step = 90.9564%
-Source Step = 90.986%
-Source Step = 91.0156%
-Source Step = 91.0452%
-Source Step = 91.0748%
-Source Step = 91.1044%
-Source Step = 91.134%
-vernier = 0.00146484
-Source Step = 91.1695%
-Source Step = 91.2139%
-Source Step = 91.2583%
-Source Step = 91.3027%
-Source Step = 91.3471%
-Source Step = 91.3915%
-vernier = 0.00219727
-Source Step = 91.458%
-Source Step = 91.5246%
-Source Step = 91.5912%
-Source Step = 91.6578%
-Source Step = 91.7244%
-Source Step = 91.791%
-Source Step = 91.8575%
-vernier = 0.0032959
-Source Step = 91.9308%
-Source Step = 92.0307%
-Source Step = 92.1305%
-Source Step = 92.2304%
-Source Step = 92.3303%
-Source Step = 92.4302%
-Source Step = 92.53%
-Source Step = 92.6299%
-Source Step = 92.7298%
-Source Step = 92.8297%
-Source Step = 92.9295%
-Source Step = 93.0294%
-Source Step = 93.1293%
-Source Step = 93.2292%
-Source Step = 93.329%
-Source Step = 93.4289%
-Source Step = 93.5288%
-Source Step = 93.6287%
-Source Step = 93.7285%
-Source Step = 93.8284%
-Source Step = 93.9283%
-vernier = 0.00494385
-Source Step = 94.0332%
-Source Step = 94.183%
-Source Step = 94.3328%
-Source Step = 94.389%
-Source Step = 94.4264%
-Source Step = 94.4639%
-Source Step = 94.5013%
-Source Step = 94.5388%
-Source Step = 94.5762%
-Source Step = 94.6137%
-Source Step = 94.6511%
-Source Step = 94.6886%
-Source Step = 94.7261%
-vernier = 0.00185394
-Source Step = 94.7747%
-Source Step = 94.8309%
-Source Step = 94.8871%
-Source Step = 94.9433%
-Source Step = 94.9995%
-vernier = 0.00278091
-Source Step = 95.0697%
-Source Step = 95.154%
-Source Step = 95.2382%
-Source Step = 95.3225%
-Source Step = 95.4068%
-Source Step = 95.491%
-Source Step = 95.5753%
-Source Step = 95.6596%
-Source Step = 95.7438%
-vernier = 0.00417137
-Source Step = 95.8492%
-Source Step = 95.9756%
-Source Step = 96.102%
-Source Step = 96.2284%
-Source Step = 96.3548%
-vernier = 0.00625706
-Source Step = 96.5065%
-Source Step = 96.6961%
-Source Step = 96.8857%
-Source Step = 97.0753%
-Source Step = 97.2649%
-vernier = 0.00938559
-Source Step = 97.483%
-Source Step = 97.7674%
-Source Step = 98.0518%
-Source Step = 98.3362%
-Source Step = 98.6206%
-vernier = 0.0140784
-Source Step = 98.9335%
-Source Step = 99.3601%
-Source Step = 99.7867%
-Source stepping succeeded in finding the operating point.
+Gmin stepping succeeded in finding the operating point.
 
 
-Date: Sat Oct 30 12:59:12 2021
-Total elapsed time: 1.444 seconds.
+Date: Sun Dec 19 16:48:53 2021
+Total elapsed time: 0.352 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 15782
-traniter = 2972
-tranpoints = 1181
-accept = 1146
-rejected = 35
-matrix size = 78
-fillins = 187
+totiter = 3356
+traniter = 2624
+tranpoints = 1159
+accept = 1123
+rejected = 36
+matrix size = 76
+fillins = 92
 solver = Normal
-Matrix Compiler1: 15.24 KB object code size  3.0/1.5/[0.8]
-Matrix Compiler2: 10.01 KB object code size  1.1/1.8/[0.5]
+Matrix Compiler1: 9.05 KB object code size  1.9/1.0/[0.5]
+Matrix Compiler2: 8.01 KB object code size  1.0/1.8/[0.6]
 

@@ -21,7 +21,7 @@ TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -38,10 +38,10 @@ OutputName1=NC Drill Files
 OutputCategory1=Fabrication
 OutputDocumentPath1=
 OutputVariantName1=
-OutputEnabled1=1
+OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=0
-OutputEnabled1_OutputMedium3=3
+OutputEnabled1_OutputMedium3=0
 OutputEnabled1_OutputMedium4=0
 OutputDefault1=0
 Configuration1_Name1=OutputConfigurationParameter1
@@ -91,28 +91,42 @@ OutputVariantName4=
 OutputEnabled4=1
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
-OutputEnabled4_OutputMedium3=4
+OutputEnabled4_OutputMedium3=3
 OutputEnabled4_OutputMedium4=0
 OutputDefault4=0
 Configuration4_Name1=OutputConfigurationParameter1
-Configuration4_Item1=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=True|GerberUnit=Metric|MinusApertureTolerance=39|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotCounterHolesPairs=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777219~1,16973831~1,16973849~1,16973835~1,16973833~1,16973830~1,16973832~1,16842751~1,16973834~1,16777218~1,16973837~1,16973848~1|PlusApertureTolerance=39|Record=GerberX2View|Sorted=False|DocumentPath=D:\Dropbox\USM\3.2 PROYECTO Y TITULACION\Proyecto\Hardware\nombre_por_definir\smartyboy.PcbDoc
+Configuration4_Item1=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=True|GerberUnit=Metric|MinusApertureTolerance=39|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotCounterHolesPairs=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777219~1,16973831~1,16973849~1,16973835~1,16973833~1,16973830~1,16973832~1,16842751~1,16973834~1,16777218~1,16973837~1,16973848~1,16908292~1|PlusApertureTolerance=39|Record=GerberX2View|Sorted=False|DocumentPath=D:\Dropbox\USM\3.2 PROYECTO Y TITULACION\Proyecto\Hardware\SmartyBoy\smartyboy.PcbDoc
+OutputType5=Schematic Print
+OutputName5=Schematic Prints
+OutputCategory5=Documentation
+OutputDocumentPath5=[Project Physical Documents]
+OutputVariantName5=
+OutputEnabled5=0
+OutputEnabled5_OutputMedium1=0
+OutputEnabled5_OutputMedium2=1
+OutputEnabled5_OutputMedium3=0
+OutputEnabled5_OutputMedium4=0
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration5_Name1=OutputConfigurationParameter1
+Configuration5_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=[Project Physical Documents]
 
 [PublishSettings]
-OutputFilePath2=
+OutputFilePath2=D:\Dropbox\USM\3.2 PROYECTO Y TITULACION\Proyecto\Hardware\SmartyBoy\Project Outputs for SmartyBoy\nombre_por_definir.PDF
 ReleaseManaged2=1
 OutputBasePath2=Project Outputs for SmartyBoy
 OutputPathMedia2=
 OutputPathMediaValue2=
-OutputPathOutputer2=[Output Type]
+OutputPathOutputer2=[Output Name]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
 OutputFileName2=nombre_por_definir.PDF
-OutputFileNameMulti2=
-UseOutputNameForMulti2=1
+OutputFileNameMulti2=SmartyBoy-Schematic
+UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
 OpenOutput2=1
 PromptOverwrite2=1
-PublishMethod2=0
+PublishMethod2=1
 ZoomLevel2=50
 FitSCHPrintSizeToDoc2=1
 FitPCBPrintSizeToDoc2=1
@@ -125,7 +139,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=D:\Dropbox\USM\3.2 PROYECTO Y TITULACION\Proyecto\Hardware\nombre_por_definir\Project Outputs for SmartyBoy\
+OutputFilePath3=D:\Dropbox\USM\3.2 PROYECTO Y TITULACION\Proyecto\Hardware\SmartyBoy\Project Outputs for SmartyBoy\
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for SmartyBoy
 OutputPathMedia3=
@@ -177,9 +191,9 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=
+RelativeOutputPath2=D:\Dropbox\USM\3.2 PROYECTO Y TITULACION\Proyecto\Hardware\SmartyBoy\Project Outputs for SmartyBoy\nombre_por_definir.PDF
 OpenOutputs2=1
-RelativeOutputPath3=D:\Dropbox\USM\3.2 PROYECTO Y TITULACION\Proyecto\Hardware\nombre_por_definir\Project Outputs for SmartyBoy\
+RelativeOutputPath3=D:\Dropbox\USM\3.2 PROYECTO Y TITULACION\Proyecto\Hardware\SmartyBoy\Project Outputs for SmartyBoy\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
